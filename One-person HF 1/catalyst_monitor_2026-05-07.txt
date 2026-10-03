@@ -1,0 +1,126 @@
+CATALYST MONITOR — May 7, 2026 | 9:45 AM ET
+================================================================================
+
+PORTFOLIO NAMES (Coverage Tickers)
+================================================================================
+
+HIMS — Hims & Hers Health, Inc.
+-------
+URGENT: Q1 2026 EARNINGS ON MAY 11 — Street expects $0.03 EPS (vs $0.14 consensus 3 months ago)
+  Summary: 78.6% EPS downward revision over past 90 days; Q1 2025 was $0.20 EPS. Stock up 37%
+  past month but down 17% YTD. Regulatory headwinds on weight-loss business cited as concern.
+  Sentiment: BEARISH (massive guidance cuts, regulatory pressure) | Source: AlphaStreet
+
+TIMING: Earnings call May 11, 5:00 PM ET — CRITICAL CATALYST THIS WEEK
+
+
+OWL — Blue Owl Capital Inc.
+-------
+BULLISH: Q1 BEAT + SPACEX MONETIZATION (major catalyst)
+  Summary: Beat Q1 distributable EPS ($0.19 vs $0.18 exp); AUM +15% YoY to $315B.
+  SpaceX stake sale at $1.25T valuation locked in ~10x return, kept remainder.
+  Dividend raised 25%; $2.4B Sila Realty Trust deal announced. Stock +6.23% in early May.
+  Sentiment: BULLISH (earnings beat, capital deployment, dividend upside) | Source: StocksToTrade
+
+TIMING: Already reported (early May); ongoing momentum from multiple catalysts
+
+
+ARDX — Ardelyx, Inc.
+-------
+NEUTRAL: XPHOZAH CLINICAL DATA PRESENTATION AT NKF SPRING MEETINGS
+  Summary: Presented long-term safety analysis of XPHOZAH (tenapanor) for hyperphosphatemia
+  in dialysis patients at NKF conference May 7-8. XPHOZAH is first/only phosphate absorption
+  inhibitor approved by FDA for CKD dialysis patients. Sponsoring peer exchange May 8, 12:15 PM CT.
+  Sentiment: NEUTRAL-TO-BULLISH (positive clinical evidence, but incremental for existing approved drug)
+  Source: Manila Times / Investing.com
+
+
+TTWO — Take-Two Interactive Software
+-------
+URGENT: GRAND THEFT AUTO VI CONFIRMED MAY 26, 2026 RELEASE
+  Summary: GTA VI launching May 26, 2026 (moved from Fall 2025). Company reiterated record
+  net bookings expectations for FY2026 and FY2027. FY2026 earnings report May 21, 2026 after
+  market close. BofA price target $320 (26x 2027-28 EPS estimate).
+  Sentiment: BULLISH (blockbuster release imminent, reaffirmed guidance, analyst support)
+  Source: StreetInsider / BusinessWire
+
+TIMING: Earnings May 21; GTA VI launch May 26 — TWO MAJOR CATALYSTS THIS WEEK
+
+
+SMH — VanEck Semiconductor ETF
+-------
+BULLISH: SECTOR MOMENTUM ON POSITIVE EARNINGS + AI NARRATIVE
+  Summary: SMH rallied 32.2% in April, up 52.6% YTD as of May 6. Top holdings: NVDA (17%),
+  TSMC (10.5%), AVGO (7.95%), INTC (7%), AMD (6.17%). Sector bounce driven by positive
+  chip giant earnings and AI build-out validation. War-related selling in late March reversed
+  after Iran ceasefire on April 8. Net assets $63.4B; 0.35% ER.
+  Sentiment: BULLISH (positive earnings flow, AI momentum intact, technicals strong)
+  Source: Motley Fool
+
+TIMING: No imminent catalyst; riding sector momentum
+
+
+================================================================================
+MACRO CALENDAR (Next 7 Days — May 7-14, 2026)
+================================================================================
+
+May 8 (Thursday)
+  — University of Michigan Consumer Sentiment (Preliminary) — Minor impact on book
+  — Ardelyx peer exchange at NKF meetings (12:15 PM CT)
+
+May 9 (Friday)
+  — Initial Jobless Claims — Potential rate-cut trigger if weak
+
+May 11 (Sunday)
+  — HIMS Q1 earnings release (before market open) + earnings call 5:00 PM ET [URGENT]
+
+May 14 (Wednesday)
+  — CPI (headline & core, YoY & MoM) — Major macro event; inflation path implications
+
+May 21 (Thursday)
+  — TTWO FY2026 earnings release (after market close) [URGENT]
+
+May 26 (Tuesday)
+  — GTA VI LAUNCH (major revenue catalyst for TTWO) [URGENT]
+
+
+================================================================================
+IMMEDIATE ACTION ITEMS
+================================================================================
+
+SAME-DAY ACTION REQUIRED:
+  1. HIMS — May 11 earnings: 78% EPS guidance cut over 3 months; massive miss risk
+  2. TTWO — May 21 earnings + May 26 GTA VI launch: check pre-launch reception, supply chain
+  3. OWL — Monitor dividend sustainability post-SpaceX monetization; capital allocation key
+
+MONITOR (No action required this week):
+  • ARDX — Clinical presentation supportive; no major inflection
+  • SMH — Sector in strong uptrend; holdings riding AI narrative (NVDA, TSMC, AMD)
+
+
+================================================================================
+DEDUPLICATION LOG
+================================================================================
+
+• No material duplicate stories across sources
+• HIMS guidance revisions consistent across AlphaStreet, TipRanks, MarketBeat
+• OWL SpaceX story unique to May 4-5 window; dividend/Sila deal also covered consistently
+• ARDX NKF conference presentation is single-source event (May 7-8)
+• TTWO GTA VI confirmed across StreetInsider, BusinessWire, multiple outlets
+• SMH sector momentum story consistent with Motley Fool analysis
+
+
+================================================================================
+SENTIMENT SUMMARY
+================================================================================
+
+BULLISH:
+  — OWL: Earnings beat + capital deployment (SpaceX, dividend, M&A)
+  — TTWO: GTA VI release + reaffirmed guidance
+  — SMH: Sector momentum on AI + positive earnings
+
+BEARISH:
+  — HIMS: Severe guidance cuts; regulatory headwinds on weight-loss business
+
+NEUTRAL:
+  — ARDX: Clinical data is positive but not transformative for approved drug
