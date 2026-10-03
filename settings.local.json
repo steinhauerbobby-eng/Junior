@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(python -c \"import yfinance as yf; t = yf.Ticker\\('FRMI'\\); info = t.info; print\\('NAME:', info.get\\('longName','N/A'\\)\\); print\\('SECTOR:', info.get\\('sector','N/A'\\)\\); print\\('INDUSTRY:', info.get\\('industry','N/A'\\)\\); print\\('MKTCAP:', info.get\\('marketCap','N/A'\\)\\); print\\('PRICE:', info.get\\('currentPrice', info.get\\('regularMarketPrice','N/A'\\)\\)\\); print\\('DESCRIPTION:', info.get\\('longBusinessSummary','N/A'\\)[:600]\\)\")"
-    ]
-  }
-}
